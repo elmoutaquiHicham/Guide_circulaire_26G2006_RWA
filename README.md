@@ -98,10 +98,4 @@ Ces textes modifient probablement les pondérations, les seuils, et intègrent d
 
 ---
 
-## 6. Comment continuer
-
-1. Je peux récupérer le texte de chaque circulaire modificative pour te dire précisément quels articles ont changé.
-2. On peut construire des cas pratiques chiffrés (ex. "banque avec 50M MAD de créances entreprise notée BBB, calcule le RWA").
-3. On peut faire des fiches de révision par section (crédit / marché / opérationnel) séparément.
-
-Dis-moi par où tu veux commencer.
+<span>Risque de contrepartie supplémentaire <span style="color:red">(l'autre partie peut faire défaut avant que l'échange soit complet)</span>
