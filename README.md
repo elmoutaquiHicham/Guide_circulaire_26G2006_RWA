@@ -19,6 +19,8 @@ Guide d'étude — Circulaire BAM n° 26/G/2006
 | IV. Risques opérationnels | 56–62 | 3 approches (indicateur de base / standard / standard alternative) |
 | V. Autres dispositions | 63–66 | Consolidation, reporting, pouvoir de révision de BAM |
 
+**règlement livraison** : Logique générale --> si le règlement d'une transaction sur titres/devises/produits de base prend du retard, la banque est exposée à un risque de contrepartie supplémentaire (l'autre partie peut faire défaut avant que l'échange soit complet)
+
 **Formule clé (Art. 2, 5, 6) :**
 ```
 Coefficient de solvabilité = Fonds propres / (RWA crédit + RWA marché + RWA opérationnel) ≥ 8%
@@ -98,4 +100,3 @@ Ces textes modifient probablement les pondérations, les seuils, et intègrent d
 
 ---
 
-<span>Risque de contrepartie supplémentaire <span style="color:red">(l'autre partie peut faire défaut avant que l'échange soit complet)</span>
