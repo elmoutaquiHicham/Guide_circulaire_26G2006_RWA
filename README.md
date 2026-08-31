@@ -5,7 +5,7 @@ Guide d'étude — Circulaire BAM n° 26/G/2006
 # Guide d'étude — Circulaire BAM n° 26/G/2006
 ### Exigences en fonds propres — risques de crédit, de marché et opérationnels (approche standard)
 
-> **⚠️ Texte de base : décembre 2006.** Amendé depuis par plusieurs circulaires (voir section finale). Ce guide couvre le texte original article par article — il faut le compléter avec les modificatifs pour une version à jour à 2026.
+> ** Texte de base : décembre 2006.** Amendé depuis par plusieurs circulaires (voir section finale). Ce guide couvre le texte original article par article — il faut le compléter avec les modificatifs pour une version à jour à 2026.
 
 ---
 
