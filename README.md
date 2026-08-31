@@ -44,7 +44,7 @@ C'est la partie la plus dense. Voici le tableau récapitulatif par catégorie de
 | **D. Établissements de crédit** | 20% | 50% | 50% | 100% | 150% | 50% |
 | **F. Entreprises / PME** (option notation) | 20% | 50% | 100% | 150% | 150% | 100% |
 
-*Cas particuliers à connaître par cœur (pas de notation à chercher — taux fixes) :*
+*Cas particuliers (pas de notation à chercher — taux fixes) :*
 - **G. TPE et particuliers** : **75%** (100% si crédit particulier >1M MAD hors immo résidentiel)
 - **H. Prêts immobiliers résidentiels** (hypothèque 1er rang, LTV ≤80%) : **35%**
 - **I. Immobilier commercial** : 100% (crédit direct) / 50% (crédit-bail)
